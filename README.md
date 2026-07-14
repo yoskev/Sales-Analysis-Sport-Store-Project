@@ -86,7 +86,7 @@ This project follows a 6-phase data analysis process, from defining the objectiv
  Email, email of vendor's
  Phone, phone of vendor's
 
--Relationships and Constraints
+- Relationships and Constraints
  •	patnerstore.PatnerStoreID ↔ salesorder.PatnerStoreID: One-to-Many (one Patner Store can have many sales order).
  •	salesteam.SalesTeamID ↔ salesorder.SalesTeamID: One-to-Many (one Sales Team have responsibility to many sales order).
  •	vendor.VendorID ↔ product.VendorID: One-to-Many (one vendor can sell many of products).
