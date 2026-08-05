@@ -4,7 +4,7 @@ USE distributordatabase;
 CREATE TEMPORARY TABLE FilteredSalesOrder AS
 SELECT SalesOrderID, PatnerStoreID, SalesTeamID, OrderDate, Payment, TotalOrderTransaction, Note
 FROM SalesOrder
-WHERE OrderDate BETWEEN '2020-01-01' AND '2022-12-31';
+WHERE OrderDate BETWEEN '01/01/2020' AND '31/12/2022';
 
 SELECT * FROM FilteredSalesOrder;
 
