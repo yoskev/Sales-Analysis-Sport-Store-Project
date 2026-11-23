@@ -175,6 +175,7 @@ This interactive dashboard provides insights that get from sales data in the Spo
 - After a sharp **-17.21% YoY decline in 2021**, the business recovered slightly with **+1.93% YoY growth in 2022** — the average YoY change across the period is **-5.09%**.
 - Monthly revenue peaked at **Rp13bn**, with **October and November** consistently the strongest months, pointing to a seasonal pattern likely tied to year-end demand.
 - Average monthly MoM growth is **+4.16%**, showing high month-to-month volatility even though the overall yearly trend is declining.
+![Sales Performance](Images/Sales%20Performance%20Seasonality%20by%20Month)(Images/Sales%20Performance%20YoY%20Growth)
   
 ### Product & Category
 
