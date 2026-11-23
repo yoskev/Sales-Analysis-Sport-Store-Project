@@ -183,6 +183,9 @@ This interactive dashboard provides insights that get from sales data in the Spo
 - **Bicycle** is the top-performing category, generating **Rp109.80bn (~37% of total revenue)**, followed by **Gym & Fitness (Rp84.12bn, 28.35%)** and **Golf (Rp69.03bn, 23.26%)**.
 - **Road Bike** is the single best-selling product at **Rp78.19bn**, nearly double the second-best product (Stick Golf Bag, Rp39.99bn).
 - Despite Bicycle leading in revenue, **Gym & Fitness has the highest order volume (91.21K units)** — meaning it sells in higher quantity but at a lower price point per unit than Bicycle.
+
+![Product & Category 1](Images/Product%20&%20Category%20Analysis%20-%20Revenue%20Contribution%20for%20Category.png)
+![Product & Category 2](Images/Product%20&%20Category%20Analysis%20-%20Revenue%20Contribution%20for%20Product.png)
   
 ### Partner Store Behaviour
 
