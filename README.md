@@ -106,6 +106,9 @@ This project follows a 6-phase data analysis process, from defining the objectiv
 ## 📊 Dashboard Overview
 This interactive dashboard provides insights that get from sales data in the Sport Store Brand Client, including Sales Executive Summary, Sales performance, Product & Cateogry Analysis, Partner Store Behaviour Analysis, and Sales Team & Region Analysis.
 
+## Link Dashboard
+[View the interactive Power BI dashboard](https://app.powerbi.com/view?r=eyJrIjoiM2Q0OTgwODAtMGJhZi00M2VmLTgyYzYtNWQzOTk1NjA0MzFhIiwidCI6IjM0ODViOTYzLTgyYmEtNGE2Zi04MTBmLWI1Y2MyMjZmZjg5OCIsImMiOjEwfQ%3D%3D)
+
 ### Key Metrics Summary
 
 - **Total Revenue from 2020 - 2022**: Approximately Rp.297 Billion
