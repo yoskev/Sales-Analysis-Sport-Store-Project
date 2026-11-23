@@ -192,6 +192,8 @@ This interactive dashboard provides insights that get from sales data in the Spo
 - Out of **50 active partner stores**, the business is heavily **Retail-dependent (90.79% of revenue)**, with Distributors contributing only 9.21%.
 - **Toko Hidup Sehat** is the top-revenue partner store at **Rp9.43bn**, closely trailed by several stores in the Rp8bn range — revenue is fairly evenly distributed among the top 10, rather than dominated by one outlier.
 - **Java is the strongest region for partner store revenue (Rp88bn)**, followed by Kalimantan (Rp55bn) — this is notable because Java underperforms in the *direct sales team* view but leads in the *partner store* channel, suggesting the region is driven more by partnerships than direct sales.
+
+![Partner Store](Images/Partner%20Store%20Analysis.png)
   
 ### Sales Team & Region
 - The **Sulawesi-Maluku Sales Team** is the top performer, generating **Rp103.20bn from 345 orders** — more than any other team by a wide margin.
