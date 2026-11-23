@@ -200,7 +200,7 @@ This interactive dashboard provides insights that get from sales data in the Spo
 - **Corporate Negotiation is the most effective promotion method**, driving **47% of total revenue (Rp140.42bn)**, ahead of Sales Promotion (35%) and Online Marketing (18%).
 - The **Online Sales Team generates Rp52.17bn from only 194 orders**, showing a notably higher revenue-per-order than the regional field teams — worth investigating as a scalable channel.
 
-![Sales Team & Region](Images/Sales Team Region Analysis.png)
+![Sales Team & Region](Images/Sales%20Team%20Region%20Analysis.png)
 
 ---
  
