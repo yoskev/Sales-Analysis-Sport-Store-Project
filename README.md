@@ -168,6 +168,7 @@ This interactive dashboard provides insights that get from sales data in the Spo
 - Revenue declined from **Rp111bn (2020) → Rp94bn (2021) → Rp92bn (2022)**, a downward trend of roughly 15–17% since 2020.
 - **Sulawesi, Maluku & North Maluku** is the leading sales region at **34.77%** of total revenue, followed by Jakarta (22.99%), Sumatera & Kalimantan (17.58%), and Bali/Nusa Tenggara (12.54%). **Java is the weakest region at 12.11%**, despite being a major market.
 - Average Order Value fell from **Rp312M (2020) to Rp270M (2022)**, indicating customers are spending less per transaction over time.
+![Executive Summary](Images/Executive%20Summary.png)
   
 ### Sales Performance
 
