@@ -199,6 +199,9 @@ This interactive dashboard provides insights that get from sales data in the Spo
 - The **Sulawesi-Maluku Sales Team** is the top performer, generating **Rp103.20bn from 345 orders** — more than any other team by a wide margin.
 - **Corporate Negotiation is the most effective promotion method**, driving **47% of total revenue (Rp140.42bn)**, ahead of Sales Promotion (35%) and Online Marketing (18%).
 - The **Online Sales Team generates Rp52.17bn from only 194 orders**, showing a notably higher revenue-per-order than the regional field teams — worth investigating as a scalable channel.
+
+![Sales Team & Region](Images/Sales Team Region Analysis.png)
+
 ---
  
 ## 🎯 Business Insights & Action Recommendation(Areas for Improvement)
