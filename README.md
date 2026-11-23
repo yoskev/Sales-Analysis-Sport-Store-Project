@@ -101,7 +101,7 @@ This project follows a 6-phase data analysis process, from defining the objectiv
 - `salesorder.SalesOrderID` ↔ `invoice.SalesOrderID`: One-to-Many (one sales order can be listed in many invoices)
 
 ### Data Model
-https://github.com/yoskev/Sales-Analysis-Sport-Store-Project/blob/main/Images/Data%20Model.png
+![Data Model](images/Data Model.png)
 
 ## 🎬 Project Showcase
 ![Power BI Dashboard Demo](Power%20BI%20Project%20Showcase.gif)
