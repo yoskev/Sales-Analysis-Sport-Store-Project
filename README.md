@@ -190,7 +190,7 @@ This interactive dashboard provides insights that get from sales data in the Spo
 - The **Online Sales Team generates Rp52.17bn from only 194 orders**, showing a notably higher revenue-per-order than the regional field teams — worth investigating as a scalable channel.
 ---
  
-## 🎯 Business Insights
+## 🎯 Business Insights & Action Recommendation(Areas for Improvement)
  
 ### Strengths
 - **Bicycle and Gym & Fitness categories are strong, reliable revenue drivers**, together accounting for over 65% of total revenue — a solid foundation to build future promotions around.
